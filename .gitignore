@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.*
+
+# ChromaDB local database
+chroma_db/
+
+# Data files - PDFs and images
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large files
+*.bin
+*.sqlite3
+*.pdf
+*.png

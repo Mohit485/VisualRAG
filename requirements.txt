@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-experimental
+chromadb
+open-clip-torch
+torch
+pillow
+pymupdf
+groq
+fastapi
+uvicorn
+python-multipart
+gradio
+python-dotenv
