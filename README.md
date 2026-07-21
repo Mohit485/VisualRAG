@@ -10,12 +10,11 @@ Built with LangChain, ChromaDB, OpenCLIP, Groq, FastAPI, Gradio, and Docker.
 
 <!-- Replace with real screenshots after your first run — see filenames below -->
 ![Upload tab](assets/upload.png)
-![Ask tab](assets/asktab.png)
-
-Save into `assets/screenshots/`:
 - `upload.png` — the upload tab right after a successful file add
+  
+![Ask tab](assets/asktab.png)
 - `ask.png` — the ask tab with a real question and grounded answer showing
-- *(optional)* a short screen-recording GIF of upload → ask → answer, for a stronger portfolio link
+
 
 ---
 
