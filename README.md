@@ -9,8 +9,8 @@ Built with LangChain, ChromaDB, OpenCLIP, Groq, FastAPI, Gradio, and Docker.
 ## Demo
 
 <!-- Replace with real screenshots after your first run — see filenames below -->
-![Upload tab](assets/screenshots/upload.png)
-![Ask tab](assets/screenshots/ask.png)
+![Upload tab](assets/upload.png)
+![Ask tab](assets/asktab.png)
 
 Save into `assets/screenshots/`:
 - `upload.png` — the upload tab right after a successful file add
